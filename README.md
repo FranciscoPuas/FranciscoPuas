@@ -1,4 +1,4 @@
-<img src="[https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/header.jpg](https://ideogram.ai/api/images/direct/j3oS9GOwQ_K6xINndew-5A.jpg)" alt="Image showing Francisco Puas, analista programador">
+<img src="[https://imgur.com/HbAA9Rp)" alt="Image showing Francisco Puas, analista programador">
 
 Soy Francisco Puas, un estudiante de programación apasionado por aprender y mejorar constantemente. Actualmente, estoy enfocado en el desarrollo de habilidades en JavaScript, Java, C#, Python y SQL.
 
@@ -22,13 +22,29 @@ Aquí encontrarás algunos de mis proyectos más destacados. ¡Explora y descubr
 Estoy abierto a colaboraciones y contribuciones. Si tienes ideas interesantes o buscas colaboradores para tus proyectos, ¡no dudes en contactarme!
 
 ## Contacto
+
+Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/tu-perfil/) para conocer más sobre mi trayectoria y experiencias.
+
 <p>
-  <a href="https://www.linkedin.com/in/francisco-puas/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Java-Junior-_.svg?logo=java"></a>
-  <a href="#"><img src="https://img.shields.io/badge/PHP-Junior_.svg?logo=kotlin"></a>
-  <a href="#"><img src="https://img.shields.io/badge/C#_.svg"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Evangelist-_.svg"></a>
+  
+<a href="https://www.linkedin.com/in/francisco-puas/"><img src="https://img.shields.io/badge/LinkedIn--\_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+  
+<a href="#"><img src="https://img.shields.io/badge/Java-Junior-\_.svg?logo=java"></a>
+  
+<a href="#"><img src="https://img.shields.io/badge/PHP-Junior\_.svg?logo=kotlin"></a>
+  
+<a href="#"><img src="https://img.shields.io/badge/C#\_.svg"></a>
+  
+<a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Evangelist-\_.svg"></a>
+
+<a href="#"><img src="https://img.shields.io/badge/Node.js-Intermediate-blueviolet"></a>
+
+<a href="#"><img src="https://img.shields.io/badge/Python-Beginner-blue"></a>
+  
+<a href="#"><img src="https://img.shields.io/badge/JavaScript-Beginner-yellowgreen"></a>
+
 </p>
+
 ¡Gracias por visitar mi perfil! Siéntete libre de explorar mis repositorios y dejarme tus comentarios.
 
 <hr>

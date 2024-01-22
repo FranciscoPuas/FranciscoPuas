@@ -1,5 +1,5 @@
 <img align="top" width="400" alt="Shimarin" src="https://imgur.com/HbAA9Rp"/>
-<p align = center ><img src="https://i.imgur.com/x6qU1kR.png"> </p>
+<p align = center ><img src="https://imgur.com/HbAA9Rp"> </p>
 
 
 <h1 align="center">Hi 👋, I'm Francisco Puas</h1>

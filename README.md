@@ -1,63 +1,22 @@
-<a href="https://imgur.com/HbAA9Rp" target="_blank" rel="download org image">![alt README header](https://imgur.com/HbAA9Rp)</a>
+<h1 align="center">Hi 👋, I'm Francisco Puas</h1>
+<h3 align="center">A passionate developer from Chile</h3>
 
-Soy Francisco Puas, un estudiante de programación apasionado por aprender y mejorar constantemente. Actualmente, estoy enfocado en el desarrollo de habilidades en JavaScript, Java, C#, Python y SQL.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=franciscopuas&label=Profile%20views&color=0e75b6&style=flat" alt="franciscopuas" /> </p>
 
-## Mis habilidades
-- JavaScript
-- Java
-- C#
-- Python
-- SQL
+- 🔭 I’m currently working on [Portfolio](https://github.com/FranciscoPuas/fpuas_portafolio)
 
-## Proyectos Destacados
-Aquí encontrarás algunos de mis proyectos más destacados. ¡Explora y descubre mi enfoque creativo y mis habilidades técnicas!
+- 🌱 I’m currently learning **NodeJS, Python, Django, Docker, IA**
 
-1. Proyecto 1
-   - Descripción breve del proyecto y sus tecnologías utilizadas.
+- 👨‍💻 All of my projects are available at [https://github.com/FranciscoPuas](https://github.com/FranciscoPuas)
 
-2. Proyecto 2
-   - Otra breve descripción con las tecnologías implementadas.
+- 📫 How to reach me **francisco.puasv@gmail.com**
 
-## Colaboración
-Estoy abierto a colaboraciones y contribuciones. Si tienes ideas interesantes o buscas colaboradores para tus proyectos, ¡no dudes en contactarme!
-
-## Contacto
-
-Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/tu-perfil/) para conocer más sobre mi trayectoria y experiencias.
-
-<p>
-  
-<a href="https://www.linkedin.com/in/francisco-puas/"><img src="https://img.shields.io/badge/LinkedIn--\_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-  
-<a href="#"><img src="https://img.shields.io/badge/Java-Junior-\_.svg?logo=java"></a>
-  
-<a href="#"><img src="https://img.shields.io/badge/PHP-Junior\_.svg?logo=kotlin"></a>
-  
-<a href="#"><img src="https://img.shields.io/badge/C#\_.svg"></a>
-  
-<a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Evangelist-\_.svg"></a>
-
-<a href="#"><img src="https://img.shields.io/badge/Node.js-Intermediate-blueviolet"></a>
-
-<a href="#"><img src="https://img.shields.io/badge/Python-Beginner-blue"></a>
-  
-<a href="#"><img src="https://img.shields.io/badge/JavaScript-Beginner-yellowgreen"></a>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/francisco-puas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/francisco-puas/" height="30" width="40" /></a>
 </p>
 
-¡Gracias por visitar mi perfil! Siéntete libre de explorar mis repositorios y dejarme tus comentarios.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<hr>
-
-#### ¿Quieres construir el tuyo?
-
-¿Te gusta mi perfil y quieres construir el tuyo? Es muy simple. GitHub agregó recientemente una nueva función llamada **Profile Readmes**. Para que funcione, haz lo siguiente:
-
-1. Crea un repositorio de GitHub con tu nombre de usuario como nombre del repositorio. Mi nombre de usuario es `DennisHartrampf`, así que mi repositorio de perfil readme tiene el nombre `DennisHartrampf`.
-2. Agrega un `README.md` a este repositorio.
-3. Coloca contenido interesante sobre ti (o cualquier cosa que desees) en `README.md`.
-
-Y eso es todo. El `README.md` de tu repositorio de perfil readme se mostrará en tu página de perfil. Si necesitas inspiración, puedes consultar [este repositorio](https://github.com/abhisheknaiidu/awesome-github-profile-readme), que contiene una lista curada de buenos repositorios de perfiles readme.
-
------
-Créditos: [DennisHartrampf](https://github.com/DennisHartrampf)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franciscopuas&show_icons=true&locale=en&layout=compact" alt="franciscopuas" /></p>

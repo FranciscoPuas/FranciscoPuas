@@ -39,6 +39,9 @@
 <a href="https://github.com/FranciscoPuas/tarot">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranciscoPuas&repo=tarot&theme=tokyonight" alt="Tarot">
 </a>
+<a href="https://github.com/FranciscoPuas/contador-_palabras">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranciscoPuas&repo=contador&theme=tokyonight" alt="Tarot">
+</a>
 
 <h2>⚡ Recent Activity:</h2>
 

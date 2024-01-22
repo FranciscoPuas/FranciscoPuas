@@ -1,27 +1,59 @@
-
-![a_cyberpunk_banner_with_teh_text_Francisco_Puas](https://github.com/FranciscoPuas/FranciscoPuas/assets/116049369/4031761e-7a25-4c8c-b8cb-f7ac9dd42938)
-
 <h1 align="center">Hi 👋, I'm Francisco Puas</h1>
-<h3 align="center">A passionate developer from Chile</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=franciscopuas&label=Profile%20views&color=0e75b6&style=flat" alt="franciscopuas" /> </p>
-
-¡Gracias por visitar mi perfil! Siéntete libre de explorar mis repositorios y dejarme tus comentarios.
-
-- 🔭 I’m currently working on [Portfolio](https://github.com/FranciscoPuas/fpuas_portafolio)
-
-- 🌱 I’m currently learning **NodeJS, Python, Django, Docker, IA**
-
-- 👨‍💻 All of my projects are available at [https://github.com/FranciscoPuas](https://github.com/FranciscoPuas)
-
-- 📫 How to reach me **francisco.puasv@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/francisco-puas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/francisco-puas/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/FranciscoPuas?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/repo-Github-000?style=for-the-badge&logo=github&logoColor=white" alt="Github Repositories">
+  </a>
+  <a href="https://www.linkedin.com/in/francisco-puas/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+  </a>  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <strong>A passionate developer from Chile</strong>  
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franciscopuas&show_icons=true&locale=en&layout=compact" alt="franciscopuas" /></p>
+<hr>
+
+<h2>👨‍💻 Skills:</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/html5-Language-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/css3-Language-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/javascript-Language-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/python-Language-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/django-Framework-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/node.js-Technology-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS">
+</p>
+
+<h2>📌 Pinned Repositories:</h2>
+
+<a href="https://github.com/FranciscoPuas/portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranciscoPuas&repo=portfolio&theme=tokyonight" alt="Portfolio">
+</a>
+
+<a href="https://github.com/FranciscoPuas/chatbot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranciscoPuas&repo=chatbot&theme=tokyonight" alt="Chatbot">
+</a>
+
+<h2>⚡ Recent Activity:</h2>
+
+<!--RECENT_ACTIVITY:start-->
+- 🎉 Merged PR [#12](https://github.com/FranciscoPuas/portfolio/pull/12) in [FranciscoPuas/portfolio](https://github.com/FranciscoPuas/portfolio)
+- 🗣 Commented on [#249](https://github.com/pandas-dev/pandas/issues/249) in [pandas-dev/pandas](https://github.com/pandas-dev/pandas)
+- 🎉 Merged PR [#510](https://github.com/pydata/pandas-datareader/pull/510) in [pydata/pandas-datareader](https://github.com/pydata/pandas-datareader) 
+<!--RECENT_ACTIVITY:end-->
+
+<h2>📈 GitHub Stats:</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FranciscoPuas&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FranciscoPuas&theme=tokyonight" alt="GitHub Streak Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoPuas&layout=compact&theme=tokyonight" alt="Top Languages"> 
+</p>

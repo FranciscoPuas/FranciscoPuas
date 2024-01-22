@@ -1,4 +1,4 @@
-<img src="[https://imgur.com/HbAA9Rp)" alt="Image showing Francisco Puas, analista programador">
+<a href="https://imgur.com/HbAA9Rp" target="_blank" rel="download org image">![alt README header](https://github.com/zmcx16/zmcx16/blob/master/images/kanban1-demo.jpg?raw=true)</a>
 
 Soy Francisco Puas, un estudiante de programación apasionado por aprender y mejorar constantemente. Actualmente, estoy enfocado en el desarrollo de habilidades en JavaScript, Java, C#, Python y SQL.
 

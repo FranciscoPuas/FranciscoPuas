@@ -1,3 +1,6 @@
+<img align="top" width="400" alt="Shimarin" src="https://imgur.com/HbAA9Rp"/>
+
+
 <h1 align="center">Hi 👋, I'm Francisco Puas</h1>
 <h3 align="center">A passionate developer from Chile</h3>
 

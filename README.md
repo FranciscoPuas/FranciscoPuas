@@ -1,27 +1,47 @@
-¡Hola! Soy Francisco Puas, un entusiasta analista programador apasionado por la creación de soluciones innovadoras. ¡Bienvenido a mi perfil de GitHub!
+<img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/header.jpg" alt="Image showing Francisco Puas, analista programador">
 
-Acerca de mí
-Soy un estudiante de programación en constante aprendizaje, con conocimientos en JavaScript, Java, C#, Python y SQL. Mi objetivo es mejorar mis habilidades y contribuir al mundo del desarrollo de software.
+Soy Francisco Puas, un estudiante de programación apasionado por aprender y mejorar constantemente. Actualmente, estoy enfocado en el desarrollo de habilidades en JavaScript, Java, C#, Python y SQL.
 
-Mis habilidades
-JavaScript
-Java
-C#
-Python
-SQL
-PHP
-Proyectos destacados
+## Mis habilidades
+- JavaScript
+- Java
+- C#
+- Python
+- SQL
+
+## Proyectos Destacados
 Aquí encontrarás algunos de mis proyectos más destacados. ¡Explora y descubre mi enfoque creativo y mis habilidades técnicas!
 
-Proyecto 1
+1. Proyecto 1
+   - Descripción breve del proyecto y sus tecnologías utilizadas.
 
-![Star Button](URL_DE_LA_IMAGEN_DEL_BOTON_STAR)Proyecto 2
+2. Proyecto 2
+   - Otra breve descripción con las tecnologías implementadas.
 
-Otra breve descripción con las tecnologías implementadas.
-Colaboración
+## Colaboración
 Estoy abierto a colaboraciones y contribuciones. Si tienes ideas interesantes o buscas colaboradores para tus proyectos, ¡no dudes en contactarme!
 
-Contacto
-Puedes encontrarme en [LinkedIn](enlace a tu perfil de LinkedIn) para conocer más sobre mi trayectoria y experiencias.
-
+## Contacto
+<p>
+  <a href="https://www.linkedin.com/in/francisco-puas/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Java-Expert-_.svg?logo=java"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Kotlin-Enthusiast-_.svg?logo=kotlin"></a>
+  <a href="#"><img src="https://img.shields.io/badge/TDD-Advocate-_.svg"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Evangelist-_.svg"></a>
+</p>
 ¡Gracias por visitar mi perfil! Siéntete libre de explorar mis repositorios y dejarme tus comentarios.
+
+<hr>
+
+#### ¿Quieres construir el tuyo?
+
+¿Te gusta mi perfil y quieres construir el tuyo? Es muy simple. GitHub agregó recientemente una nueva función llamada **Profile Readmes**. Para que funcione, haz lo siguiente:
+
+1. Crea un repositorio de GitHub con tu nombre de usuario como nombre del repositorio. Mi nombre de usuario es `DennisHartrampf`, así que mi repositorio de perfil readme tiene el nombre `DennisHartrampf`.
+2. Agrega un `README.md` a este repositorio.
+3. Coloca contenido interesante sobre ti (o cualquier cosa que desees) en `README.md`.
+
+Y eso es todo. El `README.md` de tu repositorio de perfil readme se mostrará en tu página de perfil. Si necesitas inspiración, puedes consultar [este repositorio](https://github.com/abhisheknaiidu/awesome-github-profile-readme), que contiene una lista curada de buenos repositorios de perfiles readme.
+
+-----
+Créditos: [DennisHartrampf](https://github.com/DennisHartrampf)

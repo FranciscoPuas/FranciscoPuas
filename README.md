@@ -1,5 +1,5 @@
 
-<a href="https://drive.google.com/uc?export=download&id=15B9sVQpIXlQ2JeYOm9V5SNiLHiInW9tU" target="_blank" rel="download org image">![alt README header](https://imgur.com/HbAA9Rp)</a>
+<a href="https://drive.google.com/uc?export=download&id=15B9sVQpIXlQ2JeYOm9V5SNiLHiInW9tU" target="_blank" rel="download org image">
 <h1 align="center">Hi 👋, I'm Francisco Puas</h1>
 <h3 align="center">A passionate developer from Chile</h3>
 

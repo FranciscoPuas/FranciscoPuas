@@ -16,7 +16,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Node.js-Intermediate-blueviolet"></a>
 <a href="#"><img src="https://img.shields.io/badge/Python-Beginner-blue"></a>
 <a href="#"><img src="https://img.shields.io/badge/JavaScript-Beginner-yellowgreen"></a>
-<a href="#"><img src="https://img.shields.io/badge/C%23-celeste?style=flat&logo=c-sharp&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/C%23-celeste?style=flat&logo=c-sharp&logoColor=white-junior"></a>
 
 </p>
 ¡Gracias por visitar mi perfil! Siéntete libre de explorar mis repositorios y dejarme tus comentarios.

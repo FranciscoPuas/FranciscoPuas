@@ -1,4 +1,3 @@
-<img align="top" width="400" alt="Shimarin" src="https://imgur.com/HbAA9Rp"/>
 <p align = center ><img src="https://imgur.com/HbAA9Rp"> </p>
 
 

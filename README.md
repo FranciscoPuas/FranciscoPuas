@@ -31,12 +31,12 @@
 
 <h2>📌 Pinned Repositories:</h2>
 
-<a href="https://github.com/FranciscoPuas/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranciscoPuas&repo=portfolio&theme=tokyonight" alt="Portfolio">
+<a href="https://github.com/FranciscoPuas/fpuas_portafolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranciscoPuas&repo=fpuas_portafolio&theme=tokyonight" alt="Portfolio"> 
 </a>
 
-<a href="https://github.com/FranciscoPuas/chatbot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranciscoPuas&repo=chatbot&theme=tokyonight" alt="Chatbot">
+<a href="https://github.com/FranciscoPuas/tarot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranciscoPuas&repo=tarot&theme=tokyonight" alt="Tarot">
 </a>
 
 <h2>⚡ Recent Activity:</h2>

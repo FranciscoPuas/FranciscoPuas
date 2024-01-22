@@ -4,20 +4,7 @@
 <h3 align="center">A passionate developer from Chile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franciscopuas&label=Profile%20views&color=0e75b6&style=flat" alt="franciscopuas" /> </p>
-## Contacto
 
-
-<p>
-
-<a href="https://www.linkedin.com/in/francisco-puas/"><img src="https://img.shields.io/badge/LinkedIn--\\\_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-<a href="#"><img src="https://img.shields.io/badge/Java-Junior-\\\_.svg?logo=java"></a>
-<a href="#"><img src="https://img.shields.io/badge/PHP-Junior\\\_.svg?logo=kotlin"></a>  
-<a href="#"><img src="https://img.shields.io/badge/Node.js-Intermediate-blueviolet"></a>
-<a href="#"><img src="https://img.shields.io/badge/Python-Beginner-blue"></a>
-<a href="#"><img src="https://img.shields.io/badge/JavaScript-Beginner-yellowgreen"></a>
-<a href="#"><img src="https://img.shields.io/badge/C%23-celeste?style=flat&logo=c-sharp&logoColor=white-junior"></a>
-
-</p>
 ¡Gracias por visitar mi perfil! Siéntete libre de explorar mis repositorios y dejarme tus comentarios.
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/FranciscoPuas/fpuas_portafolio)

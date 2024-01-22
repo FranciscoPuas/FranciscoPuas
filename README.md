@@ -1,5 +1,5 @@
-<p align = center ><img src="https://imgur.com/HbAA9Rp"> </p>
 
+![a_cyberpunk_banner_with_teh_text_Francisco_Puas](https://github.com/FranciscoPuas/FranciscoPuas/assets/116049369/583b5a1d-dfba-4852-9338-fa06df4e4b03)
 
 <h1 align="center">Hi 👋, I'm Francisco Puas</h1>
 <h3 align="center">A passionate developer from Chile</h3>

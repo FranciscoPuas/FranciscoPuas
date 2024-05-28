@@ -42,6 +42,10 @@
 <a href="https://github.com/FranciscoPuas/gestion-horario">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranciscoPuas&repo=gestion-horario&theme=tokyonight" alt="Gestión de Horarios">
 </a>
+<a href="https://github.com/FranciscoPuas/Login">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranciscoPuas&repo=Login&theme=tokyonight" alt="Login">
+</a>
+
 
 <h2>⚡ Recent Activity:</h2>
 
@@ -64,7 +68,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoPuas&layout=compact&theme=tokyonight" alt="Top Languages"> 
 </p>
-<a href="https://github.com/FranciscoPuas/Login">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranciscoPuas&repo=Login&theme=tokyonight" alt="Login">
-</a>
+
 

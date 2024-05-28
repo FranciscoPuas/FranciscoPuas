@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://github.com/FranciscoPuas/FranciscoPuas/assets/116049369/80bdb808-6d42-48eb-b293-747366034964.png" width="600">
 </p>
@@ -39,8 +38,13 @@
 <a href="https://github.com/FranciscoPuas/tarot">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranciscoPuas&repo=tarot&theme=tokyonight" alt="Tarot">
 </a>
-<a href="https://github.com/FranciscoPuas/contador-_palabras">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranciscoPuas&repo=contador-_palabras&theme=tokyonight" alt="Tarot">
+
+<a href="https://github.com/FranciscoPuas/contador_palabras">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranciscoPuas&repo=contador_palabras&theme=tokyonight" alt="Contador de Palabras">
+</a>
+
+<a href="https://github.com/FranciscoPuas/gestion-horario">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranciscoPuas&repo=gestion-horario&theme=tokyonight" alt="Gestión de Horarios">
 </a>
 
 <h2>⚡ Recent Activity:</h2>
@@ -64,3 +68,29 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoPuas&layout=compact&theme=tokyonight" alt="Top Languages"> 
 </p>
+
+## Gestión de Horarios
+
+Este proyecto es un sistema de gestión de horarios para profesores y estudiantes. Permite crear usuarios, actividades, asignar actividades a usuarios y crear recordatorios. El sistema está desarrollado utilizando PHP, MySQL, HTML, CSS y JavaScript.
+
+### Características
+
+- Crear horarios de los profesores y estudiantes con su salón y las actividades que tienen que realizar.
+- Crear recordatorios para actividades como reuniones, cursos extracurriculares, citas médicas, etc.
+- Crear recordatorios en la mañana de las actividades a realizar en el día.
+- Administrador para dar de alta y de baja a profesores y estudiantes.
+- Profesores y estudiantes pueden dar de alta horarios fijos y actividades extras.
+- El sistema avisa si alguna actividad se traslapa con alguna ya programada.
+- Toda la información es almacenada en una base de datos MySQL.
+
+### Requisitos
+
+- XAMPP (o cualquier otro servidor local con PHP y MySQL)
+- Navegador web moderno
+
+### Instalación
+
+1. Clona este repositorio en tu máquina local:
+
+   ```sh
+   git clone https://github.com/FranciscoPuas/gestion-horario.git

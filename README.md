@@ -64,4 +64,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoPuas&layout=compact&theme=tokyonight" alt="Top Languages"> 
 </p>
+<a href="https://github.com/FranciscoPuas/Login">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranciscoPuas&repo=Login&theme=tokyonight" alt="Login">
+</a>
 

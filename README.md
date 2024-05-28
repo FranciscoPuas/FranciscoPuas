@@ -39,10 +39,6 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranciscoPuas&repo=tarot&theme=tokyonight" alt="Tarot">
 </a>
 
-<a href="https://github.com/FranciscoPuas/contador_palabras">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranciscoPuas&repo=contador_palabras&theme=tokyonight" alt="Contador de Palabras">
-</a>
-
 <a href="https://github.com/FranciscoPuas/gestion-horario">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranciscoPuas&repo=gestion-horario&theme=tokyonight" alt="Gestión de Horarios">
 </a>

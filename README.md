@@ -46,7 +46,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranciscoPuas&repo=Login&theme=tokyonight" alt="Login">
 </a>
 <a href="https://github.com/FranciscoPuas/biblioteca">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranciscoPuas&repo=Login&theme=tokyonight" alt="biblioteca">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranciscoPuas&repo=biblioteca&theme=tokyonight" alt="biblioteca">
 </a>
 
 

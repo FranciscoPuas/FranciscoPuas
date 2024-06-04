@@ -28,6 +28,8 @@
   <img src="https://img.shields.io/badge/php-Language-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/django-Framework-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/node.js-Technology-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS">
+  <img src="https://img.shields.io/badge/laravel-Technology-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+
 </p>
 
 <h2>📌 Pinned Repositories:</h2>

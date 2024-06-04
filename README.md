@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/css3-Language-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/javascript-Language-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
   <img src="https://img.shields.io/badge/python-Language-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/php-Language-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/django-Framework-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/node.js-Technology-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS">
 </p>
@@ -74,5 +75,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoPuas&layout=compact&theme=tokyonight" alt="Top Languages"> 
 </p>
-
-

@@ -36,7 +36,7 @@
 </a>
 
 <a href="https://github.com/FranciscoPuas/tarot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranciscoPuas&repo=tarot&theme=tokyonight" alt="Tarot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranciscoPuas&repo=tarot&theme=tokyonight" alt="Tarot diario">
 </a>
 
 <a href="https://github.com/FranciscoPuas/gestion-horario">

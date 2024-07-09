@@ -29,6 +29,9 @@
   <img src="https://img.shields.io/badge/django-Framework-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/node.js-Technology-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS">
   <img src="https://img.shields.io/badge/laravel-Technology-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+<img src="https://img.shields.io/badge/jquery-Technology-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
+<img src="https://img.shields.io/badge/bootstrap-Technology-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+
 
 </p>
 

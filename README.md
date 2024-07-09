@@ -51,8 +51,8 @@
 <a href="https://github.com/FranciscoPuas/biblioteca">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranciscoPuas&repo=biblioteca&theme=tokyonight" alt="biblioteca">
 </a>
-<a href="https://github.com/FranciscoPuas/validador_rut">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranciscoPuas&repo=validador_rut&theme=tokyonight" alt="validador de rut">
+<a href="https://github.com/FranciscoPuas/pokedex">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranciscoPuas&repo=pokedex&theme=tokyonight" alt="pokedex">
 </a>
 
 

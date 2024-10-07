@@ -2,7 +2,7 @@
   <img src="https://github.com/FranciscoPuas/FranciscoPuas/assets/116049369/80bdb808-6d42-48eb-b293-747366034964.png" width="800" height="400" alt="Banner">
 </p>
 
-<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Francisco Puas</h1>
+<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Francisco Puas V.</h1>
 
 <p align="center">
   <strong>A passionate developer from Chile</strong>  

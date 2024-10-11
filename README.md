@@ -70,7 +70,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/FranciscoPuas/clima">
+  <a href="https://github.com/FranciscoPuas/clima/tree/master">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranciscoPuas&repo=clima&theme=tokyonight" alt="Clima">
   </a>
 </p>

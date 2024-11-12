@@ -47,7 +47,7 @@
 
 <p align="center">
   <a href="[https://franciscopuas.github.io/Porfolio-2.0/]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranciscoPuas&repo=fpuas_portafolio&theme=tokyonight" alt="Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranciscoPuas&repo=Porfolio-2.0&theme=tokyonight" alt="Portfolio">
   </a>
   <a href="https://github.com/FranciscoPuas/tarot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranciscoPuas&repo=tarot&theme=tokyonight" alt="Tarot diario">

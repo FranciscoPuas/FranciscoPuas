@@ -49,15 +49,13 @@
   <a href="https://franciscopuas.github.io/Porfolio-2.0/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranciscoPuas&repo=Porfolio-2.0&theme=tokyonight" alt="Portfolio">
   </a>
-  <a href="https://github.com/FranciscoPuas/tarot">
+  <a href="https://franciscopuas.github.io/tarot/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranciscoPuas&repo=tarot&theme=tokyonight" alt="Tarot diario">
   </a>
   <a href="https://github.com/FranciscoPuas/gestion-horario">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranciscoPuas&repo=gestion-horario&theme=tokyonight" alt="Gestión de Horarios">
   </a>
 </p>
-
-
 <p align="center">
   <a href="https://github.com/FranciscoPuas/Login">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranciscoPuas&repo=Login&theme=tokyonight" alt="Login">

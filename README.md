@@ -46,7 +46,7 @@
 ## 📌 Featured Projects
 
 <p align="center">
-  <a href="[https://franciscopuas.github.io/Porfolio-2.0/]">
+  <a href="https://franciscopuas.github.io/Porfolio-2.0/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranciscoPuas&repo=Porfolio-2.0&theme=tokyonight" alt="Portfolio">
   </a>
   <a href="https://github.com/FranciscoPuas/tarot">
@@ -56,6 +56,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranciscoPuas&repo=gestion-horario&theme=tokyonight" alt="Gestión de Horarios">
   </a>
 </p>
+
 
 <p align="center">
   <a href="https://github.com/FranciscoPuas/Login">

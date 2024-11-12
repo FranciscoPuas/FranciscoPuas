@@ -46,7 +46,7 @@
 ## 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/FranciscoPuas/fpuas_portafolio">
+  <a href="[https://github.com/FranciscoPuas/fpuas_portafolio](https://franciscopuas.github.io/Porfolio-2.0/)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=FranciscoPuas&repo=fpuas_portafolio&theme=tokyonight" alt="Portfolio">
   </a>
   <a href="https://github.com/FranciscoPuas/tarot">
